@@ -1,0 +1,74 @@
+baseURL = "/"
+languageCode = "de-de"
+paginate = 6
+theme = "portio"
+title = "Mehr Inhalt"
+# Main Menu
+[[menu.main]]
+name = "Services"
+url = "#service"
+weight = 1
+[[menu.main]]
+name = "Mehr zu mir"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 3
+[[menu.main]]
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 4
+
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Impressum"
+url = "#"
+weight = 1
+[[menu.sitemap]]
+name = "Datenschutz"
+url = "#"
+weight = 2
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "© Mehr Inhalt 2021"
+footerLogo = "images/contact/logo-widget.svg"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo-claim.svg"
+
+[params.address]
+address = "Berlin, Deutschland"
+email = "hi@mehrinhalt.com"
+openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+phone = "+(448) 833 5272 332"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/"
+weight = 1
+[[params.social]]
+icon = "fa-instagram"
+url = "https://instagram.com/"
+weight = 2
+[[params.social]]
+icon = "fa-pinterest-square"
+url = "https://www.pinterest.com/"
+weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/"
+weight = 4
+

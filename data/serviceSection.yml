@@ -1,0 +1,24 @@
+---
+enable: true
+topTitle: Services
+title: >
+  ## Das ist mein Spielfeld
+
+  Als Generalistin aufgestellt kann ich vielseitig an die Arbeit gehen - kreativ umsetzend und strategisch beratend. 
+service:
+  - content: >
+      #### Mehr Text 
+
+      Deinen Zielen und deiner Strategie entsprechend manage ich deinen Content und erstelle kreative Inhalte für deine unterschiedlichen Kanäle und Formate: vom 
+      aktivierenden Post für Social Media, über SEO-optimierte Texte und Blogbeiträge für deine Website, bis hin zum umfassenden Whitepaper.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Mehr Marke 
+
+      Du weißt nicht, wie du deine Marke positionieren kannst, wie du deine Zielgruppe ansprechen sollst, oder was überhaupt deine Marke ist? Ich helfe dir dabei, dich zu differenzieren und deine Marke menschlich und erlebbar zu gestalten. Gemeinsam erarbeiten wir die Pfeiler deiner Kommunikation. 
+    image: images/service/web.svg
+  - content: >
+      #### Mehr Social 
+
+      Deine Zielgruppe ist auf sozialen Medien aktiv, aber du noch nicht? Wenn dein Ziel mehr Bekanntheit, oder mehr Umsatz, oder auch mehr Employer Branding ist, sollte sich das ändern: Ich baue deinen Social-Media-Auftritt auf, manage deine Inhalte und gehe mit deiner Community in den Dialog.
+    image: images/service/creative.svg
