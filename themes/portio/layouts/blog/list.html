@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+<header class="breadCrumb">
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-12 text-center">
+				<h3 class="breadCrumb__title">{{ .Title }}</h3>
+				<nav aria-label="breadcrumb" class="d-flex justify-content-center">
+					<ol class="breadcrumb align-items-center">
+						<li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+						<li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+					</ol>
+				</nav>
+			</div>
+		</div>
+	</div>
+</header>
+
+<section class="section blog-page">
+	<div class="container">
+		<div class="row">
+			{{ range .Paginator.Pages }}
+			<div class="col-lg-4">
+				<div class="blog-page__item">
+					<div class="blog-page__item-thumb">
+						<img src="{{ .Params.featureImage | absURL }}" alt="post-image">
+					</div>
+					<div class="blog-page__item-content bg-white">
+						<span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span>
+						<h5 class="mb-0">
+							<a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
+						</h5>
+					</div>
+				</div>
+			</div>
+			{{ end }}
+			{{ partial "pagination" .}}
+		</div>
+	</div>
+</section>
+
+{{ end }}
