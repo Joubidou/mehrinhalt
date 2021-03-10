@@ -3,26 +3,26 @@ enable: true
 topTitle: Meine Themen
 content: > 
  
- Was mich bewegt, interessiert und worüber ich gerne schreibe: 
+ Was mich bewegt, interessiert und worüber ich schreibe: 
 
 image: images/skill/skill_image.jpg
 
 skill:
   - title: Nachhaltigkeit
-    percent: 80
+    percent: 100
   - title: Business und Karriere
-    percent: 75
+    percent: 100
   - title: Instagram und soziale Medien
-    percent: 90
+    percent: 100
   - title: Digitalisierung B2B 
-    percent: 75
+    percent: 100
   - title: E-Commerce
-    percent: 85
+    percent: 100
   - title: Digitale Tools
-    percent: 75
+    percent: 100
   - title: Fitness und pflanzliche Ernährung
     percent: 100
   - title: New Work
-    percent: 80
+    percent: 100
   - title: Branding
-    percent: 90
+    percent: 100  
