@@ -12,14 +12,15 @@
                     </div>
 
                     <div class="btn-group nav mt-5">
-                        <a href="#{{.tab1Target}}" class="btn btn-primary active" data-toggle="tab">{{ .tab1Name }}</a>
-                        <a href="#{{.tab2Target}}" class="btn btn-primary" data-toggle="tab">{{ .tab2Name }}</a> 
+                        <a href="#{{.tab1Target}}" class="btn btn-outline-primary active" data-toggle="tab">{{ .tab1Name }}</a>
+                        <a href="#{{.tab2Target}}" class="btn btn-outline-primary" data-toggle="tab">{{ .tab2Name }}</a> 
                     </div>
                     <p></p>
                     <div>
-                        <a class="btn btn-outline-primary btn-zoom" href="{{ .button2Target | absURL }}">
+                        <a class="btn btn-primary btn-zoom" href="{{ .button2Target | absURL }}" >
                             {{ .button2Name }} </a>
                     </div>
+                   
                 </div>
             </div>
             <div class="col-lg-6">

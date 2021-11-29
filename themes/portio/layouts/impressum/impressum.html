@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+<header class="breadCrumb">
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-md-12 offset-lg-1 offset-md-0 text-center">
+        <h3 class="breadCrumb__title">{{ .Title }}</h3>
+        <nav aria-label="breadcrumb" class="d-flex justify-content-center">
+          <ol class="breadcrumb align-items-center">
+            <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-md-12 offset-lg-1 offset-md-0">
+  
+               <br>          
+               <h4>Angaben gemäß § 5 TMG:</h4>
+               <p>Judith Geuking<br>
+               Haus Lohn 1<br>46354 Südlohn<br></p>
+               <h4>Kontakt:</h4>
+               <p>Telefon: +49 176 62487755<br>E-Mail: hi@mehrinhalt.com</p>
+            
+      
+           <h4>Bilder und Fotos:</h4>
+               <p>privat, unsplash.com<br></p>
+          <h4>Verantwortlich für journalistisch-redaktionelle Inhalte ist:</h4>
+               <p>Judith Geuking
+               <br>Haus Lohn 1 
+               <br>46354 Südlohn<br></p>
+
+               <h4>Streitschlichtung</h4>
+               Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr" rel="noopener nofollow" target="_blank">https://ec.europa.eu/consumers/odr</a>.
+               
+            </div>
+          </div>
+        </div>
+            
+</body>
+
+{{ end }}

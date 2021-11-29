@@ -1,0 +1,31 @@
+{{ define "main"}}
+
+<header class="breadCrumb">
+  
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h3 class="breadCrumb__title">{{ 404 }}</h3>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+
+    
+      <br>
+       <h3>Uh Oh, hier fehlt eine Seite.</h3>
+       <p> Am besten, du gehst zurück zur <a href="{{ "/" | relURL }}">Startseite</a>. <br>Oder du schreibst mir schnell, welche Informationen du gesucht hast: <a href="{{ "/contact" | relURL }}">Kontakt</a>  </p>
+<br>
+
+</div>
+</div>
+</div>
+  
+</body>
+
+{{ end }}

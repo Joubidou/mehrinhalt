@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Mehr Inhalt</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Mehr Inhalt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 13 Jun 2021 12:49:27 +0600</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Kreation auf Englisch</title>
+      <link>/portfolio/pixxio/</link>
+      <pubDate>Sun, 13 Jun 2021 12:49:27 +0600</pubDate>
+      
+      <guid>/portfolio/pixxio/</guid>
+      <description>pixx.io</description>
+    </item>
+    
+    <item>
+      <title>Website Relaunch &#43; Social Media</title>
+      <link>/portfolio/tierarzt/</link>
+      <pubDate>Tue, 13 Apr 2021 12:49:27 +0600</pubDate>
+      
+      <guid>/portfolio/tierarzt/</guid>
+      <description>Tierarztpraxis an der Erft</description>
+    </item>
+    
+    <item>
+      <title>SEO-optimierte Pillar Pages</title>
+      <link>/portfolio/caya/</link>
+      <pubDate>Fri, 12 Mar 2021 12:13:40 +0000</pubDate>
+      
+      <guid>/portfolio/caya/</guid>
+      <description>CAYA</description>
+    </item>
+    
+    <item>
+      <title>Gated Content - Whitepaper mit Mehrwert</title>
+      <link>/portfolio/kernpunkt/</link>
+      <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
+      
+      <guid>/portfolio/kernpunkt/</guid>
+      <description>kernpunkt</description>
+    </item>
+    
+    <item>
+      <title>Content Management</title>
+      <link>/portfolio/angeler/</link>
+      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
+      
+      <guid>/portfolio/angeler/</guid>
+      <description>Angeler Architektur und Projektmanagement GmbH</description>
+    </item>
+    
+  </channel>
+</rss>

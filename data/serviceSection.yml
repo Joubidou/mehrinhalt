@@ -2,23 +2,23 @@
 enable: true
 topTitle: Services
 title: >
-  ## Das ist mein Spielfeld
+  ## Hier bist du richtig: 
 
-  Als Generalistin aufgestellt kann ich vielseitig an die Arbeit gehen – kreativ umsetzend und strategisch beratend. 
+  Du suchst Unterstützung bei der Texterstellung? Jemanden, der vielseitig an die Arbeit gehen kann? Dabei kreativ umsetzt und strategisch berät? Ich biete dir: 
 service:
   - content: >
       #### Mehr Text 
 
-      Deinen Zielen und deiner Strategie entsprechend manage ich deinen Content und erstelle kreative Inhalte für deine unterschiedlichen Kanäle und Formate: vom 
-      aktivierenden Post für Social Media über SEO-optimierte Texte und Blogbeiträge für deine Website bis hin zum umfassenden Whitepaper.
+      Deinen Zielen und deiner Strategie entsprechend manage ich deinen Content. Ich entwickle relevante Formate und erstelle Inhalte, die bei deiner Zielgruppe ankommen: vom 
+      aktivierenden Post für Social Media über SEO-optimierte Texte und Blogbeiträge für deine Website bis hin zum Whitepaper, das Mehrwert bietet.
     image: images/service/pen.svg
   - content: >
       #### Mehr Marke 
 
-      Du weißt nicht, wie du deine Marke positionieren kannst, wie du deine Zielgruppe ansprechen sollst oder was überhaupt deine Marke ist? Ich helfe dir dabei, dich zu differenzieren und deine Marke menschlich und erlebbar zu gestalten. Gemeinsam erarbeiten wir die Säulen deiner Kommunikation. 
+      Du weißt nicht, wie du dich stark positionieren kannst, wie du deine Zielgruppe erfolgreich ansprichst oder was überhaupt deine Marke ausmacht? Ich helfe dir dabei, dich zu differenzieren und deine Marke menschlich und erlebbar zu formen. Gemeinsam erarbeiten wir die Säulen deiner Kommunikation und bringen Struktur in deine Inhalte. 
     image: images/service/heart.svg
   - content: >
       #### Mehr Social 
 
-      Deine Zielgruppe ist auf sozialen Medien aktiv, aber du noch nicht? Dann sollte sich das ändern – egal ob dein Ziel mehr Bekanntheit, mehr Umsatz oder auch Employer Branding ist. Ich baue deinen Social-Media-Auftritt auf, manage deine Inhalte und gehe mit deiner Community in den Dialog.
+      Deine Zielgruppe ist auf Social Media aktiv, aber du erreichst sie noch nicht? Das sollte sich ändern – egal ob dein Ziel mehr Bekanntheit, mehr Umsatz oder auch besseres Employer Branding ist. Ich baue deinen Social-Media-Auftritt auf, plane und erstelle deine Inhalte und gehe mit deiner Zielgruppe in den Dialog – für eine starke Community.
     image: images/service/bubble.svg

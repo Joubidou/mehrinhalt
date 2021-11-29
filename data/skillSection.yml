@@ -1,28 +1,24 @@
 ---
 enable: true
-topTitle: Meine Themen
+topTitle: Meine Skills
 content: > 
  
- Was mich bewegt, interessiert und worüber ich schreibe: 
 
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: Nachhaltigkeit
+  - title: Texte erstellen und übersetzen
     percent: 100
-  - title: Business und Karriere
+  - title: Social Media managen 
     percent: 100
-  - title: Instagram und soziale Medien
+  - title: Kommunikations-Strategie erarbeiten
     percent: 100
-  - title: Digitalisierung B2B 
-    percent: 100
-  - title: E-Commerce
-    percent: 100
-  - title: Digitale Tools
-    percent: 100
-  - title: Fitness und pflanzliche Ernährung
-    percent: 100
-  - title: New Work
-    percent: 100
-  - title: Branding
-    percent: 100  
+  - title: WordPress, Jimdo und Co. pflegen
+    percent: 90
+  - title: Photoshop, InDesign oder Canva verwenden
+    percent: 80
+  - title: SEA und Social Ads umsetzen
+    percent: 70
+  - title: Video Content produzieren
+    percent: 40  
+

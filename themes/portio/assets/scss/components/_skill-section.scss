@@ -50,7 +50,11 @@
       }
     }
     &_image {
-      margin-right: 7%;
+      margin-right: 2%;
+      @include desktop {
+        margin-right: 0;
+      }
+      margin-left: 7%;
       @include desktop {
         margin-right: 0;
       }

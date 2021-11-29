@@ -13,7 +13,7 @@
         </p>
         <div class="case-details-info">
           <div class="case-details-info-item">
-            <h5 class="text-light">Client</h5>
+            <h5 class="text-light">Kunde</h5>
             <p>{{ .Params.client }}</p>
           </div>
           <div class="case-details-info-item">
@@ -21,14 +21,14 @@
             <p>{{ .Params.service }}</p>
           </div>
           <div class="case-details-info-item">
-            <h5>Date</h5>
-            <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
+            <h5>Datum</h5>
+            <p>{{ .PublishDate.Format "January 2006" }}</p>
           </div>
         </div>
         <div class="row mb-5">
           <div class="col-lg-6">
             <div class="case-details-service">
-              <h3>Challenge</h3>
+              <h3>Herausforderung</h3>
               <p>
                 {{ .Params.challenge }}
               </p>
@@ -36,7 +36,7 @@
           </div>
           <div class="col-lg-6">
             <div class="case-details-service">
-              <h3>Solution</h3>
+              <h3>Lösung</h3>
               <p>
                 {{ .Params.solution }}
               </p>
@@ -63,33 +63,17 @@
               </svg>
             </div>
             <div class="content">
-              <span class="small">Prev case</span>
+              <span class="small">Vorheriges Projekt</span>
               <h5 class="title"><a class="text-dark"
                   href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h5>
             </div>
           </div>
           {{ end }}
-          <div class="social">
-            {{ $url := printf "%s" .Permalink | absLangURL }}
-            <ul class="unstyle-list big">
-              <li>
-                <a href=" https://www.facebook.com/sharer/sharer.php?u={{ $url }}"><i
-                    class="fa fa-facebook-official btn-zoom"></i></a>
-              </li>
-              <li>
-                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}"><i
-                    class="fa fa-linkedin-square btn-zoom"></i></a>
-              </li>
-              <li>
-                <a href="https://twitter.com/intent/tweet?&url={{ $url }}"><i
-                    class="fa fa-twitter-square btn-zoom"></i></a>
-              </li>
-            </ul>
-          </div>
+          
           {{ if .NextInSection }}
           <div class="next d-flex align-items-center">
             <div class=" content text-right">
-              <span class="small">Next case</span>
+              <span class="small">Nächstes Projekt</span>
               <h5 class="title">
                 <a class="text-dark" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
               </h5>

@@ -1,15 +1,15 @@
 ---
-enable: true
+enable: false
 topTitle: Testimonials
 title: >
-  ## Was sagen andere?
+  ## Was sagen meine Kund:innen?
 
 testimonial:
-  - name: Ryan Cook
+  - name: Thomsas
     comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
     time: Jan 20, 2020
     star: 5
-  - name: Justin Trudo
+  - name: Vanessa
     comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
     time: Jan 16, 2020
     star: 4

@@ -2,83 +2,60 @@
 enable: true
 topTitle: Mein Werdegang
 title: >
-  ## Was bisher geschah
+  ## Wo komme ich her
 
-  Ein kurzer Überblick über meine verschiedenen Stationen. Willst du noch mehr wissen? Dann lade dir gerne meinen Lebenslauf herunter.   
+  Ein kurzer Überblick über meine Erfahrungen und verschiedenen Aufgabenbereiche. Willst du mehr wissen? Dann melde dich gerne bei mir.    
 
 tab1Name: Erfahrungen
 tab2Name: Bildung
 tab1Target: experience
 tab2Target: education
-button2Name: Download CV
-button2Target: contact
+button2Name: Kontakt
+button2Target: /contact
 
 experience:
   - content: >
       #### Texterin, Social Media und Brand Strategin 
-
+ 
       mehrinhalt.com
 
-
-      Ich bin Content Creator und Brand Strategin.
       
-      Ich erstelle Inhalte für Corporate Blogs, Online-Magazine und Social Media und mache Marken menschlicher. 
+      Ich arbeite mit Selbstständigen und Unternehmen an guten und professionellen Inhalten – auf Deutsch und Englisch. Gemeinsam entwickeln wir nahbare Marken, die echte Menschen erreichen und dabei ihre Ziele umsetzen.
     time: Januar 2020-bis heute
   - content: |
-      #### Marketing Managerin 
+      #### Marketing, Online-Redaktion, Social Media 
 
-      kernpunkt Digital GmbH, Köln
-
-      Konzeptionelle und redaktionelle Gestaltung des Markenbildes; Redaktionelle Leitung von Website, Blog sowie Printmagazin; Content-Erstellung sowie Distribution; Betreuung der Social-Media-Kanäle; Planung und Umsetzung von Marketing-Maßnahmen
-    time: Januar 2017-Dezember 2019
-  - content: |
-      #### Werkstudentin Online Marketing
-
-      kernpunkt Digital GmbH
-
-      Content-Kreation: Blogartikel und SEO-Texte, Whitepaper, Fachartikel, Social Media; kreative und operative Umsetzung von Marketing Kampagnen: SEO, SEA, SMM, Events sowie Print; Betreuung und Optimierung der Website mit dem CMS WordPress
-    time: April 2016-Dezember 2016
-  - content: |
-      #### Werkstudentin Public Relations 
-
-      Pixum, Diginet GmbH & Co. KG, Köln 
-
-      Verfassen von Pressemitteilungen und redaktionellen Beiträgen; Koordination von Medienkooperationen und Gewinnspielen; Betreuung der Facebook Community „Reisefotografie“; Erstellung von Social Media Postings; Mitarbeit bei Events
-    time: Februar 2014-August 2015
-  - content: |
-      #### Praktikantin Redaktion und PR 
-
-      DEX Magazin/Medienbüro Mendack, Düsseldorf 
-
-      Verfassen von redaktionellen Beiträgen für Print und Online sowie Pressemitteilungen; Bildrecherche, Übersetzungen
-    time: Juni 2013-September 2013
+      Vor meiner Selbstständigkeit habe ich einige Jahre Erfahrungen und Expertise als Marketing und Social Media Managerin gesammelt.  
+      
+      Auch hier war ich konzeptionell und redaktionell für die Gestaltung von Markenbildern verantwortlich. Ich habe dabei an verschiedenen Stationen die redaktionelle Leitung und Planung von Inhalten übernommen und die operative Umsetzung nie aus den Augen verloren: bei der Content-Erstellung für Online- und Print-Kanäle, bei der Betreuung der Social-Media-Auftritte und dem Aufbau von Communities. Ebenso zählten die Planung und Umsetzung von dazugehörigen Marketing-Maßnahmen sowie die Leitung und Einarbeitung eines eigenen Teams zu meinen Aufgaben. 
+    time: die Zeit davor
 
 education:
-  - content: |
+  - content: >
       #### Betriebswirtschaftslehre
       
-      Bachelor of Science
+      Bachelor of Science,
 
       Universität zu Köln
     time: April 2013-Januar 2017
-  - content: |
+  - content: >
       #### Economics and Management
 
-      Auslandssemester
+      Auslandssemester,
 
       Universidade do Porto, Portugal
     time: August 2015-März 2016
-  - content: |
+  - content: >
       #### Mehrsprachige Kommunikation
 
-      Bachelor of Arts
+      Bachelor of Arts,
 
       Fachhochschule Köln
     time: Oktober 2009-Februar 2013
-  - content: |
+  - content: >
       #### Public Relations, Social Media, Advertising, Art History
       
-      Auslandssemester
+      Auslandssemester,
 
       San Diego State University, USA
     time: August 2011-Dezember 2011

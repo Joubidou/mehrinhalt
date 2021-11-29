@@ -35,7 +35,7 @@
               <img src="{{ "images/contact/location.svg" | absURL }}" alt="location" />
             </div>
           </div>
-          <h4>Location</h4>
+          <h4>Wo arbeite ich?</h4>
           <p>
             {{ $address.address }}
           </p>
@@ -52,12 +52,13 @@
               </svg>
             </div>
             <div class="icon">
-              <img src="{{ "images/contact/phone.svg" | absURL }}" alt="phone" />
+              <img src="{{ "images/contact/mail.png" | absURL }}" alt="mail" />
             </div>
           </div>
-          <h4>Email</h4>
-          <p>{{ $address.phone }}<br>
-            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a>
+          <h4>So erreichst du mich:</h4>
+          <p>
+            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a><br>
+            oder über <a href="https://www.linkedin.com/in/judith-geuking-00154b84/">LinkedIn</a>
           </p>
 
         </div>
@@ -76,9 +77,10 @@
               <img src="{{ "images/contact/time.svg" | absURL }}" alt="time" />
             </div>
           </div>
-          <h4>Calendly</h4>
+          <h4>Video-Call Termin?</h4>
           <p>
             {{ $address.openingHours }}
+            <a href="mailto:{{ $address.email }}">Zu Calendly</a>
           </p>
         </div>
       </div>
