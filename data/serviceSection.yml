@@ -1,24 +1,26 @@
 ---
 enable: true
 topTitle: Services
-title: >
+title: |
   ## Hier bist du richtig: 
 
-  Du suchst Unterstützung bei der Texterstellung? Jemanden, der vielseitig an die Arbeit gehen kann? Dabei kreativ umsetzt und strategisch berät? Ich biete dir: 
+  Du suchst Unterstützung bei der Texterstellung? Du brauchst jemanden, der vielseitig an die Arbeit gehen kann, dabei kreativ umsetzt und strategisch vorgeht? 
+  
+  Ich biete dir: 
 service:
   - content: >
       #### Mehr Text 
 
-      Deinen Zielen und deiner Strategie entsprechend manage ich deinen Content. Ich entwickle relevante Formate und erstelle Inhalte, die bei deiner Zielgruppe ankommen: vom 
-      aktivierenden Post für Social Media über SEO-optimierte Texte und Blogbeiträge für deine Website bis hin zum Whitepaper, das Mehrwert bietet.
+      Du hast Ziele. Und Texte sollen dir bei der Erreichung helfen. Deswegen manage ich deinen Content, entwickle relevante Formate und erstelle Inhalte, die bei deiner Zielgruppe ankommen: vom 
+      aktivierenden Post für Social Media über SEO-optimierte Beiträge für deine Website bis hin zum Whitepaper, das Mehrwert bietet.
     image: images/service/pen.svg
   - content: >
       #### Mehr Marke 
 
-      Du weißt nicht, wie du dich stark positionieren kannst, wie du deine Zielgruppe erfolgreich ansprichst oder was überhaupt deine Marke ausmacht? Ich helfe dir dabei, dich zu differenzieren und deine Marke menschlich und erlebbar zu formen. Gemeinsam erarbeiten wir die Säulen deiner Kommunikation und bringen Struktur in deine Inhalte. 
+      Du weißt nicht, wie du dich stark positionieren kannst, wie du deine Zielgruppe erfolgreich ansprichst oder was deine Marke ausmacht? Ich helfe dir dabei, dich zu differenzieren und deine Marke menschlich und erlebbar zu formen. Gemeinsam erarbeiten wir die Säulen deiner Kommunikation und bringen Struktur in deine Inhalte. 
     image: images/service/heart.svg
   - content: >
       #### Mehr Social 
 
-      Deine Zielgruppe ist auf Social Media aktiv, aber du erreichst sie noch nicht? Das sollte sich ändern – egal ob dein Ziel mehr Bekanntheit, mehr Umsatz oder auch besseres Employer Branding ist. Ich baue deinen Social-Media-Auftritt auf, plane und erstelle deine Inhalte und gehe mit deiner Zielgruppe in den Dialog – für eine starke Community.
+      Deine Zielgruppe ist auf Social Media aktiv, aber du erreichst sie noch nicht? Das sollte sich ändern. Für mehr Bekanntheit, mehr Umsatz oder auch besseres Employer Branding. Ich baue deinen Social-Media-Auftritt auf, plane und erstelle deine Inhalte und gehe mit deiner Zielgruppe in den Dialog – für eine starke Community.
     image: images/service/bubble.svg
