@@ -57,7 +57,10 @@
           </div>
           <h4>So erreichst du mich:</h4>
           <p>
-            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a><br>
+            <a href="#" class="cryptedmail"
+              data-hiddenmail="{{ $address.email }}"
+              onclick="window.location.href = 'mailto:' + this.dataset.hiddenmail; return false;"></a>
+            <br>
             oder über <a href="https://www.linkedin.com/in/judith-geuking-00154b84/">LinkedIn</a>
           </p>
 
@@ -80,7 +83,6 @@
           <h4>Video-Call Termin?</h4>
           <p>
             {{ $address.openingHours }}
-            <a href="mailto:{{ $address.email }}">Zu Calendly</a>
           </p>
         </div>
       </div>

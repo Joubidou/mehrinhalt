@@ -43,8 +43,12 @@
 					<h4 class="base-font"></h4>
 					{{ $address := .Site.Params.address }}
 					<ul class="fa-ul small">
-						<li class="mb-2"><a class="text-light" href="mailto:{{ $address.email }}"><span class="fa-li"><i
-										class="fa fa-envelope"></i></span>{{ $address.email }}</a></li>
+						<li class="mb-2">
+							<a href="#" class="cryptedmail text-light"
+								data-hiddenmail="{{ $address.email }}"
+								onclick="window.location.href = 'mailto:' + this.dataset.hiddenmail; return false;"><span class="fa-li"><i
+									class="fa fa-envelope"></i></span></a>
+								</li>
 						<li class="mb-2">
 							<span class="fa-li"><i class="fa fa-map-marker"></i></span>{{ $address.address }}</a>
 						</li>
