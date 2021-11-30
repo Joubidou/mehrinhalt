@@ -1,4 +1,0 @@
----
-title: Datenschutz
-breadcrumb: Datenschutz
----

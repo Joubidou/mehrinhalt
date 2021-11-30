@@ -156,8 +156,12 @@
 					<h4 class="base-font"></h4>
 					
 					<ul class="fa-ul small">
-						<li class="mb-2"><a class="text-light" href="mailto:judith@mehrinhalt.eu"><span class="fa-li"><i
-										class="fa fa-envelope"></i></span>judith@mehrinhalt.eu</a></li>
+						<li class="mb-2">
+							<a href="#" class="cryptedmail text-light"
+								data-hiddenmail="judith@mehrinhalt.eu"
+								onclick="window.location.href = 'mailto:' + this.dataset.hiddenmail; return false;"><span class="fa-li"><i
+									class="fa fa-envelope"></i></span></a>
+								</li>
 						<li class="mb-2">
 							<span class="fa-li"><i class="fa fa-map-marker"></i></span>Remote – mit Stationen in Köln und Berlin.</a>
 						</li>
