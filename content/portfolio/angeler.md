@@ -1,7 +1,7 @@
 ---
 title: Content Management
 date: 2020-08-12T18:07:16.000+06:00
-thumbnail: images/portfolio/portfolio-architekt.jpg
+thumbnail: images/portfolio/portfolio-architekt.png
 service: Text, Branding, Umsetzung, WordPress
 client: Angeler APM GmbH
 shortDescription: Mit einer Umfirmierung stand beim Architekturbüro Angeler auch ein neues Corporate Design inklusive neuer Website auf WordPress Basis auf dem Programm. Passend zur neuen Aufmachung musste das Branding auch zu Wort und Schrift passen. Websitebesucher sollten spüren, dass das Büro auf Qualität, Stabilität und Ausgewogenheit setzt. 

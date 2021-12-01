@@ -1,7 +1,7 @@
 ---
 title: SEO-optimierte Pillar Pages
 date: 2021-03-12T12:13:40+00:00
-thumbnail: images/portfolio/portfolio-pillar.jpg
+thumbnail: images/portfolio/portfolio-pillar-page.png
 service: Text
 client: CAYA
 shortDescription: Um bei seiner Zielgruppe gefunden zu werden, wollte das Unternehmen CAYA auf umfassende Pillar Pages zu verschiedenen Themen setzen. SEO-optimiert, damit Traffic vor allem organisch generiert werden kann. Bis jetzt wurde an mehr als vier solcher langen Formate zusammen gearbeitet, angefangen beim Thema "Agentursoftware".  

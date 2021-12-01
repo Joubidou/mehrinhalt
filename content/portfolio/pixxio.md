@@ -1,7 +1,7 @@
 ---
 title: Content Kreation auf Englisch
 date: 2021-06-13T12:49:27.000+06:00
-thumbnail: images/portfolio/portfolio-pixxio.jpg
+thumbnail: images/portfolio/portfolio-pixxio.png
 service: Übersetzung, Text und Sparrings
 client: pixx.io
 shortDescription: Website Relaunch und Internationalisierung in einem. Bei pixx.io wurde in Co-Kreation die komplette Website neu vertextet, Copydecks erstellt und an einem gemeinsamen Styleguide für Texte gearbeitet. Parallel zur deutschen Seite wurde die englische Version direkt mit gelauncht.  

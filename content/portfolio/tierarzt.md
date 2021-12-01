@@ -1,7 +1,7 @@
 ---
 title: Website Relaunch + Social Media
 date: 2021-04-13T12:49:27.000+06:00
-thumbnail: images/portfolio/portfolio-erft.jpg
+thumbnail: images/portfolio/portfolio-tierarzt.png
 service: Strategie, Text und Umsetzung
 client: Tierarztpraxis an der Erft
 shortDescription: Eine fade, wenig modern aussehende Website einer Tierarztpraxis mit veralteten Inhalten, die Besucher in der Navigation und Nutzerführung verwirrte, stand für eine Generalüberholung auf dem Programm. Nutzer:innen sollten sich auch beim Besuch der Website wohl fühlen und direkt erkennen, was die Praxis ausmacht. Qualität, Professionalität und ein familiärer Umgang sollten jedem ins Auge springen. Neue Inhalte sollten Mehrwert liefern und Antworten auf die Fragen der Kund:innen liefern. Außerdem sollte der Instagram-Kanal genutzt werden, um mit regelmäßigem und kontinuierlichen Postings eine aktive Community aufzubauen. 

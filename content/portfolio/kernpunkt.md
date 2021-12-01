@@ -1,7 +1,7 @@
 ---
 title: Gated Content - Whitepaper mit Mehrwert
 date: 2020-08-12T18:19:35.000+06:00
-thumbnail: images/portfolio/portfolio-whitepaper.jpg
+thumbnail: images/portfolio/portfolio-whitepaper.png
 service: Text
 client: kernpunkt
 shortDescription: Whitepaper funtionieren als Lead Magnet hervorragend, besonders im B2B Geschäft. kernpunkt benötigte zu verschiedenen Themen, etwa "Digitalisierung im Großhandel" oder "API Strategie", umfassende Whitepaper, um sie als Gated Content anzubieten.  
