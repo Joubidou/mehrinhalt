@@ -20,10 +20,6 @@
             <h5>Service</h5>
             <p>{{ .Params.service }}</p>
           </div>
-          <div class="case-details-info-item">
-            <h5>Datum</h5>
-            <p>{{ .PublishDate.Format "January 2006" }}</p>
-          </div>
         </div>
         <div class="row mb-5">
           <div class="col-lg-6">
@@ -38,15 +34,18 @@
             <div class="case-details-service">
               <h3>Meine Leistungen</h3>
               <p>
-                {{ .Params.solution }}
+                {{ .Content }}
               </p>
             </div>
           </div>
         </div>
+      
         <div class="case-details-thumb mb-5">
           <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
         </div>
-        {{ .Content }}
+        
+  
+
       </div>
     </div>
     <div class="row">
