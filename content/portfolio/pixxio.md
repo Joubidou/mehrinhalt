@@ -10,4 +10,4 @@ solution:
 ---
 Wie kann das neue Markenbild auch in englischer Sprache funktionieren? Wie wichtig sind kulturelle Unterschiede? "Nur" übersetzen ist bei so einem Projekt natürlich fehl am Platz. Es geht um Gefühle und Emotionen, die beim Website-Besucher geweckt werden sollen. pixx.io's Sprache und Werte müssen transportiert werden, auch in der englischen Sprache.  
 
-*Meine Leistungen: Übersetzung und Lektorat für: Website Copy, Landingpages, Blog-Artikel*
+*Meine Leistungen: Übersetzung und Lektorat für Website Copy, Landingpages, Blog-Artikel*
