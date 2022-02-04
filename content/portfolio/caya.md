@@ -1,6 +1,6 @@
 ---
 title: SEO-optimierte Pillar Pages
-date: 2021-03-12T12:13:40+00:00
+date: 2021-04-12T12:13:40+00:00
 thumbnail: images/portfolio/portfolio-pillar-page.png
 service: Text
 client: CAYA
