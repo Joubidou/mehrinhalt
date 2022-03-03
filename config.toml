@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "de-de"
 paginate = 6
 theme = "portio"
-title = "Mehr Inhalt"
+title = "Mehr Inhalt - Text. Marke. Social."
 # Main Menu
 [[menu.main]]
 name = "Services"

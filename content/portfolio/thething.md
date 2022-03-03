@@ -1,5 +1,5 @@
 ---
-title: Blog- & LinkedIn-Artikel + Website Copy
+title: Blog- & LinkedIn + Website Copy
 date: 2022-02-04T11:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-thething.png
 service: Text, Social
@@ -11,4 +11,4 @@ solution:
 ---
 Welche Themen sind für die Zielgruppe relevant? Wie können auch technische, komplexe Inhalte spannend und verständlich transportiert werden? Von Themen kuratieren und recherchieren über das Schreiben bis zur Bilderrecherche und Umsetzung in WordPress sowie LinkedIn übernehme ich bei the_thing alle Aspekte der Texterstellung. 
 
-*Meine Leistungen: Text, Recherche, Redigieren, Lektorat, Übersetzungen + Umsetzung in WordPress und LinkedIn*
+*Meine Leistungen: Recherche, Texterstellung, Lektorat, Übersetzungen + Umsetzung in WordPress und auf LinkedIn*
