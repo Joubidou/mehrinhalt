@@ -4,7 +4,7 @@ date: 2021-04-12T12:13:40+00:00
 thumbnail: images/portfolio/portfolio-pillar-page.png
 service: Text
 client: CAYA
-shortDescription: Das Berliner Start-up für Postdigitalisierung und Dokumentenmanagement, CAYA, möchte seine Zielgruppe mit Content und Informationen rund um die digitale Tranformationen unterstützen. Um auch über die organische Suche besser gefunden zu werden, setzt CAYA auf umfassende und seo-optimierte Pillar Pages sowie hilfreiche Blog-Artikel. 
+shortDescription: Das Berliner Start-up für Postdigitalisierung und Dokumentenmanagement, CAYA, möchte seine Zielgruppe mit Content und Informationen rund um die digitale Transformation unterstützen. Um auch über die organische Suche besser gefunden zu werden, setzt CAYA auf umfassende und SEO-optimierte Pillar Pages sowie hilfreiche Blog-Artikel. 
 challenge: 
 solution: 
 ---
