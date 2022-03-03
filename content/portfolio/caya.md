@@ -1,13 +1,13 @@
 ---
-title: SEO-optimierte Pillar Pages
+title: SEO-optimierte Pillar Pages und Blog-Artikel
 date: 2021-04-12T12:13:40+00:00
 thumbnail: images/portfolio/portfolio-pillar-page.png
 service: Text
 client: CAYA
-shortDescription: Um bei seiner Zielgruppe gefunden zu werden, wollte das Unternehmen CAYA auf umfassende Pillar Pages zu verschiedenen Themen setzen. SEO-optimiert, damit Traffic vor allem organisch generiert werden kann. Bis jetzt wurde zusammen an drei der langen Formate gearbeitet.  
+shortDescription: Das Berliner Start-up für Postdigitalisierung und Dokumentenmanagement, CAYA, möchte seine Zielgruppe mit Content und Informationen rund um die digitale Tranformationen unterstützen. Um auch über die organische Suche besser gefunden zu werden, setzt CAYA auf umfassende und seo-optimierte Pillar Pages sowie hilfreiche Blog-Artikel. 
 challenge: 
 solution: 
 ---
-Die Themen konkurrieren online stark um die besten Rankings. Auch andere Seiten besetzen die Nische. Umso mehr musste auf hochwertige Inhalte mit Merhwert gesetzt werden. Aber nicht nur Qualität war wichtig. Denn gerade für Online-Magazine ist es schwer, lange Formate zu entwickeln, die bei einem Leser genug Interesse wecken und ihn animieren, weiter zu lesen. Ein Mix aus Expertise und Informationen gepaart mit Storytelling und einer guten User Experience auf der Seite soll den Erfolg bringen. Das bedeutete nicht nur, den Text zu erstellen, sondern auch schon während der Kreation visuell zu denken.  
+Die Themen rund um Digitalisierung und smarte Tools und Software konkurrieren online stark um die besten Rankings in den Suchmaschienen. Viele Webseiten wollen zu Keywords wie "Agentursoftware" oder "Prozesse digitalisieren" weit oben auf der Suchergebnisseite landen. Umso mehr musste auf hochwertige Inhalte mit Mehrwert gesetzt werden. Aber nicht nur Qualität ist hier wichtig. Denn gerade für Online-Magazine ist es herausfordernd, lange Formate wie Pillar Pages zu entwickeln, die bei einem Leser genug Interesse wecken und ihn animieren, länger zu lesen und in die Tiefe einzusteigen. Der Mix aus einer passenden Informationstiefe, Storytelling und einer guten User Experience auf der Seite ist entscheidend.  
 
-*Meine Leistungen: Recherche, Texterstellung, Kreatives Sparring für aktuell drei Pillar Pages zur Agentursoftware, Hausverwaltungssoftware sowie Buchhaltungssoftware*
+*Meine Leistungen: Recherche und Texterstellung für Pillar Pages und Blogartikel*
