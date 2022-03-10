@@ -4,7 +4,7 @@ date: 2020-08-12T18:19:35.000+06:00
 thumbnail: images/portfolio/portfolio-whitepaper.png
 service: Text
 client: kernpunkt
-shortDescription: Whitepaper funktionieren als Lead Magnet hervorragend, besonders im B2B Geschäft. Die Kölner Digitalagentur kernpunkt benötigte zu verschiedenen Themen rund um die Digitalisierung und E-Commerce umfassende Whitepaper, um der B2B-Zielgruppe hochwertige Informationen anzubieten und so mit Gated Content Leads zu generieren. 
+shortDescription: Whitepaper funktionieren als Lead Magnet hervorragend, besonders im B2B Geschäft. Die Kölner Digitalagentur [kernpunkt](https://www.kernpunkt.de/wissen/whitepaper) benötigte zu verschiedenen Themen rund um die Digitalisierung und E-Commerce umfassende Whitepaper, um der B2B-Zielgruppe hochwertige Informationen anzubieten und so mit Gated Content Leads zu generieren. 
 challenge:  
 solution:
 
