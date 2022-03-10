@@ -12,3 +12,5 @@ solution:
 Welche Themen sind für die Zielgruppe relevant? Wie können auch technische, komplexe Inhalte spannend und verständlich transportiert werden? Von Themen kuratieren und recherchieren über das Schreiben bis zur Bilderrecherche und Umsetzung in WordPress sowie LinkedIn übernehme ich bei the_thing alle Aspekte der Texterstellung. 
 
 *Meine Leistungen: Recherche, Texterstellung, Lektorat, Übersetzungen + Umsetzung in WordPress und auf LinkedIn*
+
+[taod.de](https://taod.de/)

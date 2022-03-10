@@ -12,3 +12,5 @@ solution:
 Gemeinsam haben wir ein Gefühl für die Sprache des neuen Auftritts entwickelt und eine Strategie erarbeitet: Wie möchte Angeler APM klingen? Wie auftreten? Welche Gefühle sollen durch die Website und deren Inhalte vermittelt werden? Wir haben die Marke definiert, die Besonderheiten herausgearbeitet und Maßnahmen konkretisiert. Dann ging es an die Umsetzung.   
 
 *Meine Leistungen: Workshop zur Ziel- und Markendefinition, Content Audit, Content Planung, Texterstellung für Website, Blog, Printmedien, sowie Social Media, Umsetzung mit WordPress und InDesign*
+
+[angeler-apm.de](https://www.angeler-apm.de/)
