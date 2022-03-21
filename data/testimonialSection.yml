@@ -1,19 +1,15 @@
 ---
-enable: false
+enable: true
 topTitle: Testimonials
 title: >
-  ## Was sagen meine Kund:innen?
+  ## Was sagen meine Kund:innen und Kolleg:innen?
 
 testimonial:
-  - name: Thomsas
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
-    star: 5
-  - name: Vanessa
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+
+  - name: Frederic Bauerfeind
+    comment: Wir sind total happy. Die Zusammenarbeit mit Judith ist immer professionell und erfolgreich. Bei den erstellten Whitepapern, Blogartikeln und Social Media Posts können wir uns dazu auf eine sehr hohe Qualität verlassen. Die gemeinsame Einarbeitung in die Zielgruppen und Themenfelder macht außerdem sehr viel Spaß und liefert immer super Ergebnisse. Da Judith stets ein Auge für Lesbarkeit und Keywords hat, konvertieren die Texte sehr gut.
+    company: taod Consulting GmbH
+
+  - name: Annika Hermes
+    comment: Judith hat sich schnell und effektiv in unsere Themen und Zielgruppe eingearbeitet und begleitet uns bei der Entwicklung unserer Inhalte und Webseite. Sie stellt die richtigen Fragen und nimmt uns wichtige Arbeit bei der Texterstellung ab – sei es für den Blog, eine Ausschreibung oder Social Media. Unsere unterschiedlichsten Anfragen weiß sie kreativ umzusetzen. 
+    company: Angeler APM GmbH

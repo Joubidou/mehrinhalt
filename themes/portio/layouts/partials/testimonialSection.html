@@ -35,7 +35,8 @@
                         </ul>
                         {{ end }}
                         <p class="testimonial__slider_item-content"> {{ .comment | markdownify }} </p>
-                        <p class="testimonial__slider_item-author"><span>{{ .name }}</span> | {{ .time }}</p>
+                        <p class="testimonial__slider_item-author"><span>{{ .name }}</span> | {{ .company }} </p>
+                        <p class="testimonial__slider_item-website">{{ .website }} </p>
                     </div>
                     {{ end }}
                 </div>

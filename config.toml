@@ -16,6 +16,10 @@ weight = 2
 name = "Portfolio"
 url = "#portfolio"
 weight = 3
+[[menu.main]]
+name = "Testimonials"
+url = "#testimonial"
+weight = 4
 
 
 
