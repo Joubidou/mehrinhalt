@@ -139,13 +139,13 @@ $(document).ready(function () {
 
   // Testimonial slider
   $(".testimonial__slider").slick({
-    infinite: true,
+    infinite: false,
     slidesToShow: 2,
     slidesToScroll: 1,
-    dots: true,
-    arrows: false,
+    dots: false,
+    arrows: true,
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 5000,
     responsive: [
       {
         breakpoint: 992,
@@ -154,6 +154,7 @@ $(document).ready(function () {
           slidesToScroll: 1,
           infinite: true,
           dots: true,
+          arrows: false,
         },
       },
     ],
