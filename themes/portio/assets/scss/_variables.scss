@@ -14,9 +14,17 @@ $body-color: #7e7e8a;
 //
 
 // Fonts
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Vollkorn&display=swap");
+
+@font-face {
+    font-family: Poppins;
+    src: url('/static/fonts/Poppins-Regular.ttf');
+    font-family: Vollkorn;
+    scr: url('/static/fonts/Vollkorn-Italic.ttf')
+  }
+
 $font-family-base: "Poppins", sans-serif;
 $headings-font-family: "Vollkorn", cursive;
+
 
 // Size
 $font-size-base: 1.125rem; // 18px
