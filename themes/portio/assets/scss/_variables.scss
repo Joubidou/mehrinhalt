@@ -16,14 +16,14 @@ $body-color: #7e7e8a;
 // Fonts
 
 @font-face {
-    font-family: Poppins;
-    src: url('/static/fonts/Poppins-Regular.ttf');
-    font-family: Vollkorn;
-    scr: url('/static/fonts/Vollkorn-Italic.ttf')
+    font-family: "Poppins";
+    src: url("/fonts/Poppins-Regular.ttf");
+    font-family: "Vollkorn";
+    src: url("/fonts/Vollkorn-Italic.ttf")
   }
 
 $font-family-base: "Poppins", sans-serif;
-$headings-font-family: "Vollkorn", cursive;
+$headings-font-family: "Vollkorn";
 
 
 // Size
