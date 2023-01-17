@@ -1,5 +1,5 @@
 ---
-title: Blog- & LinkedIn + Website Copy
+title: Text für Blog, LinkedIn & Website
 date: 2022-02-04T11:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-taod.png
 service: Text, Social
