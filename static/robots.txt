@@ -4,3 +4,4 @@ Disallow: /images
 
 User-Agent: Googlebot-Image
 Disallow: /
+
